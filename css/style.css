@@ -1,0 +1,16 @@
+
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+
+section{
+	padding: 10px;
+}
+
+#ben{
+	background: red;
+	color:white;
+}
